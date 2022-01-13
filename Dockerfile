@@ -1,5 +1,5 @@
 FROM alpine:3.8
-MAINTAINER wangkun <wangkun_king@live.com>
+LABEL maintainer="wangkun_king@live.com"
 
 ENV TENGINE_VERSION 2.3.3
 ENV CONFIG "\
